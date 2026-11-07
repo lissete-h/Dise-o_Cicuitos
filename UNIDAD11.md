@@ -1,4 +1,3 @@
-[REGRESAR](index.md)
 
 # 🔢 Sistemas Numéricos, Códigos y Compuertas Lógicas
 
@@ -34,6 +33,8 @@ Los sistemas numéricos son conjuntos de reglas y símbolos para representar can
 | 13 | `1101` | 15 | D |
 | 14 | `1110` | 16 | E |
 | 15 | `1111` | 17 | F |
+
+[REGRESAR](UNIDAD1.md)
 
 ---
 
@@ -71,6 +72,8 @@ Los sistemas numéricos son conjuntos de reglas y símbolos para representar can
   * Bloque 2 (`110`) = **6**
   * **Resultado:** `56`
 
+[REGRESAR](UNIDAD1.md)
+
 ---
 
 ## 3. Aritmética Binaria Básica
@@ -95,6 +98,8 @@ Los sistemas numéricos son conjuntos de reglas y símbolos para representar can
   -----
     011  (3 en decimal)
 
+[REGRESAR](UNIDAD1.md)
+
 ---
 
 ## 4. Códigos Digitales
@@ -102,6 +107,8 @@ Permiten representar información utilizando combinaciones de bits:
 * **BCD (Decimal Codificado en Binario):** Cada dígito decimal se representa independientemente con 4 bits (ej. el 9 es `1001`).
 * **Código Gray:** Los números consecutivos difieren en un **solo bit**, lo que evita errores de lectura en dispositivos físicos.
 * **Código ASCII:** Estándar que asigna un valor numérico/binario a cada letra, número y símbolo del teclado.
+
+[REGRESAR](UNIDAD1.md)
 
 ---
 
@@ -117,5 +124,7 @@ Circuitos electrónicos que operan con lógica binaria (0 y 1) basados en álgeb
 | **NAND (NO-AND)** | NOT (A · B) <br>*(Inversa de AND)* | 0 · 0 = 1 <br> 0 · 1 = 1 <br> 1 · 0 = 1 <br> 1 · 1 = 0 |
 | **NOR (NO-OR)** | NOT (A + B) <br>*(Inversa de OR)* | 0 + 0 = 1 <br> 0 + 1 = 0 <br> 1 + 0 = 0 <br> 1 + 1 = 0 |
 | **XOR (O Exclusiva)** | A XOR B <br>*(Salida 1 si son diferentes)* | 0 XOR 0 = 0 <br> 0 XOR 1 = 1 <br> 1 XOR 0 = 1 <br> 1 XOR 1 = 0 |
+
+[REGRESAR](UNIDAD1.md)
 
 ---
