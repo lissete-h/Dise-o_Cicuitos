@@ -1,23 +1,8 @@
 <div align="center">
-  
-  # DISEÑO DE CIRCUITOS
 
   <p align="center">
-  <img src="https://github.com/lissete-h/Dise-o_Cicuitos/blob/1cb358394d350d4584247155e05f31c9bb341db8/Captura%20de%20pantalla%202026-11-07%20150512.png" width="">
+  <img src="https://github.com/lissete-h/Dise-o_Cicuitos/blob/85da873fbd5d3220afeae0e75b9bd61ceaaaa4ce/Blue%20and%20Yellow%20Modern%20Business%20Plan%20Presentation.jpg" width="">
 </p>
-
-</div>
-
-<div align="center">
-
-| Información del Curso | Detalle |
-| :--- | :--- |
-| **Universidad** | Universidad Nacional de Loja |
-| **Facultad** | Facultad de la Energía, las Industrias y los Recursos No Renovables |
-| **Docente** | Ing. Luis Sinche Cueva |
-| **Estudiante** | Evelyn Lissette Aguinsaca Iñeguez |
-| **Semestre** | Segundo Ciclo de Computación |
-| **Estado del Repositorio** | 🟢 En desarrollo  |
 
 </div>
 
