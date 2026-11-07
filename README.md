@@ -8,8 +8,6 @@
 
 </div>
 
-  ## Unidad 1: Análisis de lógica combinacional con diseño clásico
-
 <div align="center">
 
 | Información del Curso | Detalle |
