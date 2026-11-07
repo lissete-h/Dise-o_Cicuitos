@@ -12,9 +12,9 @@
 
 | Unidad Académica | Enlace a Contenidos |
 | :--- | :--- |
-| 💡 **Unidad 1: Fundamentos de Algorítmica** | [Ver Contenidos](UNIDAD1.md) |
-| 🖊️ **Unidad 2: Estructuras de Control** | [Ver Contenidos](UNIDAD2.md) |
-| 🚀 **Unidad 3: Programación Modular y Estructuras de Datos Estáticas** | [Ver Contenidos](UNIDAD3.md) |
+| 💡 **Unidad 1:  Análisis de lógica combinacional con diseño clásico** | [Ver Contenidos](UNIDAD1.md) |
+| 🖊️ **Unidad 2:** | [Ver Contenidos](UNIDAD2.md) |
+| 🚀 **Unidad 3:** | [Ver Contenidos](UNIDAD3.md) |
 </div>
 
 ---
