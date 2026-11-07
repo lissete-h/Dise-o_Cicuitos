@@ -1,6 +1,6 @@
 <div align="center">
   
-  # 📚 DISEÑO DE CIRCUITOS
+  # 📚DISEÑO DE CIRCUITOS📚
 
   <p align="center">
   <img src="https://github.com/lissete-h/Dise-o_Cicuitos/blob/1cb358394d350d4584247155e05f31c9bb341db8/Captura%20de%20pantalla%202026-11-07%20150512.png" width="">
