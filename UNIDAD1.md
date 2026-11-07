@@ -12,9 +12,17 @@
 ## 📌 ÍNDICE DE LA UNIDAD 1 
 
 ### 📅 Semana 1: Sistemas numéricos, códigos y compuertas lógicas
-- [1. ¿Qué es un Algoritmo?](UNIDAD11.md#que-es-algoritmo)
-- [2. Características de los Algoritmos](UNIDAD11.md#caracteristicas-algoritmos)
-- [3. Clasificación de los Algoritmos](UNIDAD11.md#clasificacion-algoritmos)
+- [1. Sistemas Numéricos](#1-sistemas-numéricos)
+  - [1.1 Tabla Comparativa](#11-tabla-comparativa)
+  - [1.2 Tabla de Equivalencias Clave](#12-tabla-de-equivalencias-clave)
+- [2. Métodos de Conversión y Ejemplos Prácticos](#2-métodos-de-conversión-y-ejemplos-prácticos)
+  - [A. De Decimal a Binario](#a-de-decimal-a-binario)
+  - [B. De Binario a Decimal](#b-de-binario-a-decimal)
+  - [C. De Binario a Hexadecimal](#c-de-binario-a-hexadecimal)
+  - [D. De Binario a Octal](#d-de-binario-a-octal)
+- [3. Aritmética Binaria Básica](#3-aritmética-binaria-básica)
+- [4. Códigos Digitales](#4-códigos-digitales)
+- [5. Compuertas Lógicas](#5-compuertas-lógicas)
 
 ### 📅 Semana 2: Álgebra de Boole y formas canónicas
 - [4. Partes de un Algoritmo](UNIDAD11.md#partes-algoritmo)
