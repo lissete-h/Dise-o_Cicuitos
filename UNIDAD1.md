@@ -34,9 +34,13 @@
 - [6. Formas Canónicas: SOP y POS](UNIDAD11.md#6-formas-canónicas-sop-y-pos)
 
 ### 📅 Semana 3: Mapas de Karnaugh e Indiferentes y NAND/NOR
-- [7. Lenguajes de Programación](UNIDAD11.md#lenguajes-programacion)
-- [8. Programación por Bloques](UNIDAD11.md#programacion-bloques)
-- [9. Ejercicio con Estructuras Secuenciales](UNIDAD11.md#ejercicio-secuenciales)
+- [1. Estructura y Código Gray](UNIDAD11.md#1-estructura-y-código-gray)
+- [2. Estructuras de los Mapas (3 y 4 Variables)](UNIDAD11.md#2-estructuras-de-los-mapas-3-y-4-variables)
+- [3. Reglas Estrictas de Agrupación](UNIDAD11.md#3-reglas-estrictas-de-agrupación)
+- [4. Conceptos Clave: Implicantes Primos y Esenciales](UNIDAD11.md#4-conceptos-clave-implicantes-primos-y-esenciales)
+- [5. Procedimiento General para Simplificación SOP](UNIDAD11.md#5-procedimiento-general-para-simplificación-sop)
+- [6. Simplificación en POS (Producto de Sumas)](UNIDAD11.md#6-simplificación-en-pos-producto-de-sumas)
+- [7. Criterio de Selección: ¿SOP o POS?](UNIDAD11.md#7-criterio-de-selección-sop-o-pos)
 
   ### 📅 Semana 4: ¿Cómo suma un circuito?
 - [4. Partes de un Algoritmo](UNIDAD11.md#partes-algoritmo)
