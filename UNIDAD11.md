@@ -420,8 +420,6 @@ Utilizado para las **columnas 1 en adelante**. Procesa 3 entradas: los bits A y 
   - **Suma (S):** Se activa cuando hay un número **impar** de unos en las entradas (`S = A ⊕ B ⊕ Cin`).
   - **Acarreo de salida (Cout):** Se activa cuando hay **al menos dos unos** entre las entradas (`Cout = AB + A·Cin + B·Cin`).
 
-[REGRESAR](UNIDAD1.md)
-
 ---
 
 ## 2. Sumador de Varios Bits (Ripple Carry Adder)
