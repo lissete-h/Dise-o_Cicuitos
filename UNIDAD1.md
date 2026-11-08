@@ -25,9 +25,14 @@
 - [5. Compuertas Lógicas](UNIDAD11.md#5-compuertas-lógicas)
 
 ### 📅 Semana 2: Álgebra de Boole y formas canónicas
-- [4. Partes de un Algoritmo](UNIDAD11.md#partes-algoritmo)
-- [5. Representación de un Algoritmo](UNIDAD11.md#representacion-algoritmo)
-- [6. Prueba de Escritorio](UNIDAD11.md#prueba-escritorio)
+- [1. Postulados de Huntington](UNIDAD11#1-postulados-de-huntington)
+- [2. Teoremas: Tabla de Consulta](UNIDAD11#2-teoremas-tabla-de-consulta)
+- [3. Demostración de la Propiedad Distributiva Adicional](UNIDAD11#3-demostracion-de-la-propiedad-distributiva-adicional)
+- [4. Leyes de De Morgan](UNIDAD11#4-leyes-de-de-morgan)
+  - [Ejemplo resuelto de aplicación](UNIDAD11#ejemplo-resuelto-de-aplicación)
+- [5. Minitérminos y Maxitérminos](UNIDAD11#5-minitérminos-y-maxitérminos)
+- [6. Formas Canónicas: SOP y POS](UNIDAD11#6-formas-canónicas-sop-y-pos)
+  - [A. Forma Canónica SOP (Suma de Productos)](UNIDAD11#a-forma-canónica-sop-suma-de-productos)
 
 ### 📅 Semana 3: Mapas de Karnaugh e Indiferentes y NAND/NOR
 - [7. Lenguajes de Programación](UNIDAD11.md#lenguajes-programacion)
