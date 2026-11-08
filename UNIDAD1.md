@@ -32,7 +32,6 @@
   - [Ejemplo resuelto de aplicación](UNIDAD11#ejemplo-resuelto-de-aplicación)
 - [5. Minitérminos y Maxitérminos](UNIDAD11#5-minitérminos-y-maxitérminos)
 - [6. Formas Canónicas: SOP y POS](UNIDAD11#6-formas-canónicas-sop-y-pos)
-  - [A. Forma Canónica SOP (Suma de Productos)](UNIDAD11#a-forma-canónica-sop-suma-de-productos)
 
 ### 📅 Semana 3: Mapas de Karnaugh e Indiferentes y NAND/NOR
 - [7. Lenguajes de Programación](UNIDAD11.md#lenguajes-programacion)
