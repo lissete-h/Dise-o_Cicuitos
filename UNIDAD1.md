@@ -43,6 +43,10 @@
 - [7. Criterio de Selección: ¿SOP o POS?](UNIDAD11.md#7-criterio-de-selección-sop-o-pos)
 
   ### 📅 Semana 4: ¿Cómo suma un circuito?
-- [4. Partes de un Algoritmo](UNIDAD11.md#partes-algoritmo)
-- [5. Representación de un Algoritmo](UNIDAD11.md#representacion-algoritmo)
-- [6. Prueba de Escritorio](UNIDAD11.md#prueba-escritorio)
+## Índice de Contenidos
+- [1. Los Dos Bloques Básicos de Construcción](UNIDAD11.md#1-los-dos-bloques-básicos-de-construcción)
+  - [A. Semisumador (Half Adder)](UNIDAD11.md#a-semisumador-half-adder)
+  - [B. Sumador Completo (Full Adder)](UNIDAD11.md#b-sumador-completo-full-adder)
+- [2. Sumador de Varios Bits (Ripple Carry Adder)](UNIDAD11.md#2-sumador-de-varios-bits-ripple-carry-adder)
+- [3. Adaptación para Restar (Sumador/Restador)](UNIDAD11.md#3-adaptación-para-restar-sumadorrestador)
+- [4. Detección de Desbordamiento (Overflow)](UNIDAD11.md#4-detección-de-desbordamiento-overflow)
