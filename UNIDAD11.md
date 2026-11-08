@@ -391,7 +391,7 @@ Para determinar cuál expresión es óptima antes de pasar a circuitos lógicos:
 
 [REGRESAR](UNIDAD1.md)
 
-# ¿Cómo suma un circuito digital? (SEMANA 4)
+# 🔢 ¿Cómo suma un circuito digital? (SEMANA 4)
 
 La suma en circuitos binarios funciona con la misma lógica que la suma decimal por columnas: se calcula el dígito a escribir en la posición corriente y el valor de acarreo (*carry*) que se "lleva" hacia la siguiente columna a la izquierda.
 
@@ -402,7 +402,7 @@ La suma en circuitos binarios funciona con la misma lógica que la suma decimal 
 
 ---
 
-## 1. 🔢 Bloques Básicos de Construcción
+## 1. Bloques Básicos de Construcción
 
 ### A. Semisumador (Half Adder)
 Diseñado únicamente para la **columna 0** (la menos significativa), ya que solo recibe 2 entradas (A y B) y no procesa acarreos previos.
