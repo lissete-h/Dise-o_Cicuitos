@@ -147,7 +147,7 @@ Se define un conjunto {0, 1} con tres operaciones fundamentales: + (OR), · (AND
 
 ---
 
-## 2. Teoremas: Tabla de Consulta
+## 2. Teoremas
 
 | Teorema | Forma OR | Forma AND |
 | :--- | :--- | :--- |
@@ -163,8 +163,8 @@ Se define un conjunto {0, 1} con tres operaciones fundamentales: + (OR), · (AND
 
 ---
 
-## 3. Demostracion de la Propiedad Distributiva Adicional
-Desarrollo algebraico de la equivalencia: A + BC = (A + B)(A + C).
+## 3. Propiedad Distributiva Adicional
+A + BC = (A + B)(A + C).
 
 * **Punto de partida:** (A + B)(A + C)
 * = AA + AC + AB + BC *(aplicando distributiva)*
