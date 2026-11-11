@@ -3,7 +3,7 @@
 La suma en circuitos binarios funciona con la misma lógica que la suma decimal por columnas: se calcula el dígito a escribir en la posición corriente y el valor de acarreo (*carry*) que se "lleva" hacia la siguiente columna a la izquierda.
 
 - **S (Suma / Sum):** Es el resultado que se escribe en la columna actual.
-- **C (Acarreo / Carry):** Es el dígito que "nos llevamos" hacia la columna de la izquierda cuando la suma supera 1 bit ($1 + 1 = 10_2$, se escribe `0` y se lleva `1`).
+- **C (Acarreo / Carry):** Es el dígito que "nos llevamos" hacia la columna de la izquierda cuando la suma supera 1 bit (1 + 1 = 10_2, se escribe `0` y se lleva `1`).
 
 [REGRESAR](UNIDAD1.md)
 
